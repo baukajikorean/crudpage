@@ -1,0 +1,144 @@
+.navbar {
+	height: 53px !important;
+	padding: 0;
+	position: relative;
+	background-color: #f2f2f2;
+	border: 1px #e2e2e2 solid;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+	clear: both;
+}
+
+.footer ol  {
+	list-style: none;
+	list-style-type: inline;
+	clear: both;
+}
+.footer {
+	clear: both;
+	bottom: 0;
+	height: auto;
+	background-color: #f2f2f2;
+}
+
+div.footer p {
+}
+
+#lastword {
+	text-align: center;
+	padding: 0 0 10px 0;
+	margin: 0;
+}
+
+.textfooter {
+	position: relative;
+	padding: 0 20px;
+	display: inline-block;
+	left: 100px;
+}
+body {
+	margin: 0;
+	font-family: "Lora", serif; 
+}
+
+p, a, li {
+	font-size: 18px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#logoimg {
+	position: relative;
+	left: 100px;
+	display: inline;
+}
+
+.nav {
+	padding: auto;
+	position: relative;
+	float: right;
+	right: 100px;
+}
+
+ol.45 {
+	list-style: none;
+	list-style-type: inline;
+}
+
+.navlist {
+	display: inline;
+	padding: 8px 15px;
+}
+
+#logoname {
+	position: relative;
+	left: 120px;
+	display: inline;
+	padding: 15px;
+	margin-left: -15px;
+	float: left;
+	background-image: url(http://codenamecrud.ru/assets/logo-898f06e3e840159a174ea3d41c2ddb58422adba38d2684dbed105f163a0e6c49.png);
+    background-repeat: no-repeat;
+    background-size: 39px 39px;
+    background-position: 10px 5px;
+    padding-left: 60px;
+}
+
+.navbar {
+}
+
+div.navbar a {
+	color: black;
+}
+
+.navbar2 ol li {
+	display: inline-block;
+}
+
+.navbar2 .firstli:before {
+	content: "/  ";
+}
+
+.navbar2 {
+	display: inline-block;
+	margin:0;
+	padding: 0;
+	clear: both;
+	height: auto;
+	border-radius: 0 0 5px 5px;
+	border: 1px #e2e2e2 solid;
+	position: relative;
+	width: 80%;
+	left: 90px;
+	background-color: #f2f2f2;
+}
+
+.content {
+	width: 70%;
+	display: inline-block;
+	left: 15%;
+	position: relative;
+}
+
+.redword {
+	color: #c7254e;
+	background-color: #f9f2f4;
+	font-size: 90%;
+	padding: 2px 4px;
+	border-radius: 4px;
+}
+
+.readme {
+	border-radius: 4px;
+	background-color: #f9f9f9;
+	padding: 14px 8px;
+	font-family: monospace;
+	border-color: #e2e2e2;
+	border: 1px solid #e2e2e2;
+	position: relative;
+	left: 40px;
+	width: calc(100% - 160px); 
+}
